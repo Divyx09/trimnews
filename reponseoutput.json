@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Rob Frehse, Artemis Moshtaghian, Christina Maxouris",
+      "title": "Bus carrying students crashes, leaving 2 adults dead - CNN",
+      "description": "Two adults were killed and multiple students were injured after their bus “tumbled down a 50-foot ravine,” Thursday on Interstate 84 in Orange County, New York, Gov. Kathy Hochul said in an evening news conference.",
+      "url": "https://www.cnn.com/2023/09/21/us/bus-crash-i-84-new-york/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230921115619-01-ny-bus-crash-0921.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-09-22T04:05:00Z",
+      "content": "Two adults were killed and multiple students were injured after their bus tumbled down a 50-foot ravine, Thursday on Interstate 84 in Orange County, New York, Gov. Kathy Hochul said in an evening new… [+2811 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hollywood Reporter" },
+      "author": "Lesley Goldberg",
+      "title": "Writers Guild and Studios Conclude Latest Bargaining Session, More Talks Expected Friday - Hollywood Reporter",
+      "description": "During the latest day of negotiations, artificial intelligence, viewership-based compensation and the size of writers' rooms continued to be top issues.",
+      "url": "https://www.hollywoodreporter.com/business/business-news/writers-guild-and-studios-conclude-latest-bargaining-session-more-talks-expected-friday-1235596641/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/05/2023_05-WGA-06.jpg?w=1024",
+      "publishedAt": "2023-09-22T03:52:09Z",
+      "content": "After a long day of bargaining on issues including AI and data transparency, Thursday’s meeting between the Writers Guild of America and the Alliance of Motion Picture and Television Producers conclu… [+2829 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "New York Giants vs. San Fransisco 49ers | 2023 Week 3 Game Highlights - NFL",
+      "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+      "url": "https://www.youtube.com/watch?v=Ihjw0UClLnM",
+      "urlToImage": "https://i.ytimg.com/vi/Ihjw0UClLnM/maxresdefault.jpg",
+      "publishedAt": "2023-09-22T03:34:52Z",
+      "content": null
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Helen Coster, Aditya Soni, Dawn Chmielewski",
+      "title": "What's next for Fox as Rupert Murdoch hands reins to Lachlan - Reuters",
+      "description": "Rupert Murdoch has stepped down as the chairman of Fox Corp <a href=\"https://www.reuters.com/markets/companies/FOXA.O\" target=\"_blank\">(FOXA.O)</a> and News Corp <a href=\"https://www.reuters.com/markets/companies/NWSA.O\" target=\"_blank\">(NWSA.O)</a>, ending a…",
+      "url": "https://www.reuters.com/business/media-telecom/rupert-murdoch-steps-down-chairman-fox-news-corp-2023-09-21/",
+      "urlToImage": "https://www.reuters.com/resizer/VRAukFhCnBPlicadU0ErSztkU4s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UXL3L7WIQ5K5XKMLOL22QWPCCM.jpg",
+      "publishedAt": "2023-09-22T03:05:19Z",
+      "content": "Sept 21 (Reuters) - Rupert Murdoch has stepped down as the chairman of Fox Corp (FOXA.O) and News Corp (NWSA.O), ending a more than seven-decade career during which he created a media empire spanning… [+5870 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "HT Entertainment Desk",
+      "title": "Joe Jonas breaks silence after Sophie claims he's withholding kids' passports - Hindustan Times",
+      "description": "Sophie Turner sued Joe Jonas alleging that he was holding the kids' passports with him. The duo filed for divorce on September 5 after four years of marriage.",
+      "url": "https://www.hindustantimes.com/entertainment/music/joe-jonas-breaks-silence-after-sophie-turner-claims-hes-withholding-kids-passports-101695346993885.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/09/22/1600x900/joe_jonas_1694334168829_1695348659848.jpg",
+      "publishedAt": "2023-09-22T02:12:24Z",
+      "content": "Singer Joe Jonas has responded after his estranged wife-actor Sophie Turner filed a lawsuit against him for refusing their daughters' return to England, her native country. People.com shared a statem… [+2979 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Kyle Bonagura",
+      "title": "Oregon St. AD: Promotion/relegation model 'worthy of study' - ESPN - ESPN",
+      "description": "Oregon State athletic director Scott Barnes indicated Thursday he is curious about the possibility of promotion/relegation in college football.",
+      "url": "https://www.espn.com/college-football/story/_/id/38457319/promotion-relegation-model-worthy-study",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0922%2Fr1227943_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-09-22T02:04:00Z",
+      "content": "As Oregon State and Washington State prepare for their top-25 matchup Saturday amid the strong possibility of being stripped of their Power 5 status next season, OSU athletic director Scott Barnes in… [+2742 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Tara Suter",
+      "title": "CDC data shows obesity prevalence more common in a growing number of states - The Hill",
+      "description": "According to data from the Centers for Disease Control (CDC), the prevalence of obesity is rising all across the nation. The CDC data found that 22 states had a prevalence, or “proportion of adults with a body mass index (BMI) equal to or greater than 30,” of…",
+      "url": "https://thehill.com/policy/healthcare/4217623-cdc-data-shows-obesity-prevalence-more-common-in-a-growing-number-of-states/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/GettyImages-457163942-e1692371391337.jpg?w=1280",
+      "publishedAt": "2023-09-22T01:51:00Z",
+      "content": "Skip to content\r\nAccording to data from the Centers for Disease Control (CDC), the prevalence of obesity is rising all across the nation.\r\nThe CDC data found that 22 states had a prevalence, or “prop… [+1290 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Tyler Pager, Abigail Hauslohner, Alexandra Heal, John Hudson",
+      "title": "Zelensky blitzes Washington in urgent effort to bolster support - The Washington Post",
+      "description": "Ukrainian president visits Congress, Pentagon and White House amid signs of flagging enthusiasm for aid to Kyiv, especially among Republicans",
+      "url": "https://www.washingtonpost.com/politics/2023/09/21/zelensky-dc-biden-congress-ukraine-aid/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TWPXWES7ERBEBH5UHDFLKVRVHU_size-normalized.JPG&w=1440",
+      "publishedAt": "2023-09-22T01:48:00Z",
+      "content": "Comment on this story\r\nComment\r\nWhen Ukrainian President Volodymyr Zelensky last visited Washington, it was a top-secret journey and his first trip outside his country since Russia invaded Ukraine. H… [+9124 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "Emily Mae Czachor",
+      "title": "\"Dangerous\" inmate captured after escaping custody while getting treatment at hospital in St. Louis - CBS News",
+      "description": "Surveillance footage appeared to show Tommy Wayne Boyd leaving the St. Louis hospital on foot early Thursday morning, according to police. He was caught Thursday night",
+      "url": "https://www.cbsnews.com/news/tommy-wayne-boyd-dangerous-inmate-escape-capture-custody-st-louis-hospital-police/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/21/dfeccaac-a0d8-4c6d-aac1-f76a1f5f7b2d/thumbnail/1200x630/645f51e6d31c24b44a1e964e90897d98/screen-shot-2023-09-21-at-10-19-19-am.png?v=f5251b37272e6b1bc4e5456ab4445a67",
+      "publishedAt": "2023-09-22T01:38:00Z",
+      "content": "Authorities in Missouri have captured a prison inmate who escaped custody early Thursday morning while receiving treatment at a St. Louis hospital. \r\nThe inmate, identified as 45-year-old Tommy Wayne… [+2337 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "Russia-Ukraine war: List of key events, day 576 - Al Jazeera English",
+      "description": "As the war enters its 576th day, these are the main developments.",
+      "url": "https://www.aljazeera.com/news/2023/9/22/russia-ukraine-war-list-of-key-events-day-576",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/2023-09-21T105610Z_1626220719_RC2BC3A5VY03_RTRMADP_3_UKRAINE-CRISIS-BELARUS-BORDER-1695343578.jpg?resize=1920%2C1440",
+      "publishedAt": "2023-09-22T01:20:47Z",
+      "content": "Here is the situation on Friday, September 22, 2023.\r\nFighting\r\n<ul><li>Ukraine warned that winter could be hard after a barrage of Russian missiles targeted civilian infrastructure. Difficult months… [+4695 chars]"
+    },
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Axios",
+      "title": "In leaked messages, UAW leader says union is creating “operational chaos” for automakers - Axios",
+      "description": null,
+      "url": "https://www.axios.com/2023/09/22/uaw-strike-automakers-operational-chaos-fain-leaked-messages",
+      "urlToImage": null,
+      "publishedAt": "2023-09-22T01:20:45Z",
+      "content": null
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Brian Heater",
+      "title": "Microsoft refreshes Surface Laptop Go and Laptop Studio - TechCrunch",
+      "description": "CEO Satya Nadella took the stage. But hardware was the real star today – specifically the Surface Laptop Go 3 and Surface Laptop Studio 2.",
+      "url": "https://techcrunch.com/2023/09/21/microsoft-refreshes-surface-laptop-go-and-laptop-studio/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/DDR52206.jpg?resize=1200,796",
+      "publishedAt": "2023-09-22T00:47:34Z",
+      "content": "What is a Surface event without a Panos Panay? Microsoft answered the existential question today during a New York City Windows event. The company broke out the big guns in the absence of the longtim… [+1663 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Kristin Wilson, Haley Talbot, Clare Foran, Melanie Zanona",
+      "title": "McCarthy visibly frustrated after GOP hardliners put his plan to avoid a shutdown on ice - CNN",
+      "description": "Speaker Kevin McCarthy sent his House members home for the week without a clear plan to avoid a looming government shutdown after hardliners in the Republican conference once again scuttled his spending plans, delivering an embarrassing floor defeat for GOP l…",
+      "url": "https://www.cnn.com/2023/09/21/politics/house-government-shutdown-negotiations-latest/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230914153527-03-kevin-mccarthy-091423.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-09-22T00:45:00Z",
+      "content": "Speaker Kevin McCarthy sent his House members home for the week without a clear plan to avoid a looming government shutdown after hardliners in the Republican conference once again scuttled his spend… [+4190 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "ROB GILLIES",
+      "title": "Hardeep Singh Nijjar killing: India suspends visa services in Canada as rift widens - The Associated Press",
+      "description": "A Canadian official says the allegation of India’s involvement in the killing of a Sikh Canadian is based on surveillance of Indian diplomats in Canada, including intelligence provided by a major ally. The official told The Associated Press on Thursday that t…",
+      "url": "https://apnews.com/article/india-canada-visas-sikh-activist-killing-381e973e84f8d0c10b0bd53b03ccbdf2",
+      "urlToImage": "https://dims.apnews.com/dims4/default/c349923/2147483647/strip/true/crop/1280x720+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fda%2Faf%2F309f598ada563e0b887c1afd5280%2Fus-ny-trudeau-briefing-20230921cr-1920x1080.jpg",
+      "publishedAt": "2023-09-21T23:40:00Z",
+      "content": "TORONTO (AP) The allegation of Indias involvement in the killing of a Sikh Canadian is based on surveillance of Indian diplomats in Canada, including intelligence provided by a major ally, a Canadian… [+6956 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Greg Wehner",
+      "title": "Poland announces stop to supplying arms to Ukraine, says modernizing its own weapons - Fox News",
+      "description": "Polish Prime Minister Mateusz Morawiecki announced Wednesday his country would no longer send weapons to Ukraine, saying Poland is planning to modernize its weaponry.",
+      "url": "https://www.foxnews.com/world/poland-announces-stop-supplying-arms-ukraine-modernizing-own-weapons",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/Morawiecki-zelenskyy.jpg",
+      "publishedAt": "2023-09-21T23:35:00Z",
+      "content": "Polish Prime Minister Mateusz Morawiecki said late Wednesday his country will no longer send weapons to Ukraine as the far right continues to place pressure on his populist party over its support of … [+3624 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "ADAM BEAM Associated Press",
+      "title": "Wildfire-prone California to consider new rules for property insurance pricing - ABC News",
+      "description": "A new plan from California's insurance commissioner aims to keep the nation's top insurers from leaving the wildfire-prone state",
+      "url": "https://abcnews.go.com/Business/wireStory/wildfire-prone-california-new-rules-property-insurance-pricing-103394813",
+      "urlToImage": "https://i.abcnewsfe.com/a/9d338127-8fed-4ef6-b147-24d3f947acee/wirestory_cf40911606e8e4d9c7c35ca57ca733e8_16x9.jpg?w=992",
+      "publishedAt": "2023-09-21T23:03:45Z",
+      "content": "SACRAMENTO, Calif. -- California will let insurance companies consider climate change when setting their prices, the state's chief regulator announced Thursday, a move aimed at preventing insurers fr… [+5850 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Raiders.com" },
+      "author": null,
+      "title": "Las Vegas Raiders, Pittsburgh Steelers Injury Report | NFL Week 3, 2023 - Raiders.com",
+      "description": "Take a look at the Raiders' injury report as the team prepares to face the Pittsburgh Steelers.",
+      "url": "https://www.raiders.com/news/las-vegas-raiders-pittsburgh-steelers-nfl-week-3-injury-report-2023",
+      "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/raiders/anbnzrfhpua4sbujon4f",
+      "publishedAt": "2023-09-21T22:59:19Z",
+      "content": "Sep 21, 2023\r\nRaiders.com's Eddie Paskal is joined by linebacker Robert Spillane to discuss the upcoming Week 3 matchup against the Pittsburgh Steelers, linebacker Divine Deablo and more on this edit… [+26 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Paul Steinhauser",
+      "title": "Republican Dave McCormick launches bid for vulnerable Senate seat in battleground state - Fox News",
+      "description": "Republican Dave McCormick on Thursday launched his second straight bid for the Senate in battleground Pennsylvania, giving the GOP the candidate they wanted as they try to win the Senate majority back.",
+      "url": "https://www.foxnews.com/politics/republican-dave-mccormick-launches-bid-vulnerable-senate-seat-battleground-state",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/GettyImages-1240736733.jpg",
+      "publishedAt": "2023-09-21T22:26:00Z",
+      "content": "It's take two for Dave McCormick in battleground Pennsylvania.\r\nMcCormick, a former hedge fund executive, West Point graduate, Gulf War combat veteran and Treasury Department official in former Presi… [+8053 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hollywood Reporter" },
+      "author": "Frank Scheck",
+      "title": "‘Expend4bles’ Review: Jason Statham and Sylvester Stallone Take the Franchise to New Lows - Hollywood Reporter",
+      "description": "Several newcomers, including Megan Fox, Andy Garcia, Tony Jaa and Iko Uwais, join the team for the fourth installment of the action movie series.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/expend4bles-review-jason-statham-sylvester-stallone-1235594968/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/09/exp4-unit-01320-r-EMBED-2023.jpg?w=1000",
+      "publishedAt": "2023-09-21T22:00:29Z",
+      "content": "A title that started ironically has now become all too accurate when it comes to the belated fourth installment of Sylvester Stallone’s action franchise. Arriving a full nine years after the poorly r… [+3627 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Isaac Schultz",
+      "title": "Telescope Spots OSIRIS-REx Returning From Asteroid Bennu - Gizmodo",
+      "description": "The NASA spacecraft will return a sample from the distant asteroid to Earth on September 24.",
+      "url": "https://gizmodo.com/osiris-rex-nasa-bennu-asteroid-telescope-spotted-1850862587",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f0e51dee0aadab167b618cd6d21478a4.png",
+      "publishedAt": "2023-09-21T20:16:00Z",
+      "content": "NASAs $800 million OSIRIS-REx mission launched to space in September 2016 with a simple, albeit ambitious, objective: travel to a distant asteroid and bring back a sample of it. The spacecraft is now… [+2153 chars]"
+    }
+  ]
+}
