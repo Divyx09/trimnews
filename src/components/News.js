@@ -3,13 +3,14 @@ import NewsItems from "./NewsItems";
 import Spinner from "./Spinner";
 
 export class News extends Component {
-  constructor() {
-    super();
+  constructor(props) {
+    super(props);
     this.state = {
       articles: [],
       loading: false,
       page: 1,
     };
+    document.title =`${this.props.category.charAt(0).toUpperCase() + this.props.category.slice(1).toLowerCase()} - BharatTimes`
   }
 
   async componentDidMount() {
